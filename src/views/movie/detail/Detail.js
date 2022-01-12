@@ -124,3 +124,4 @@ const Detail = ({history}) => {
 }
 
 export default Detail
+ 
